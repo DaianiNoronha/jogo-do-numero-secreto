@@ -5,7 +5,7 @@
 ## 🖥️ Projeto
 Este é um projeto web de um jogo em JavaScript chamado 'Jogo do Número Secreto', desenvolvido como parte do curso 'Iniciante em Programação' da Alura. O HTML e o CSS foram fornecidos pelos tutores da Alura, enquanto o desafio foi desenvolver a lógica de programação.
 
-As regras do jogo são simples: o usuário deve tentar adivinhar um número secreto entre 1 e 10. A máquina finaliza o jogo quando o usuário acerta o número, e exibir a quantidade de tentativas até o acerto.
+As regras do jogo são simples: o usuário deve tentar adivinhar um número secreto entre 1 e 10. A máquina finaliza o jogo quando o usuário acerta o número, e deve exibir a quantidade de tentativas até o acerto.
 
 Para validação do código foram desenvolvidas seis funções em JavaScript.
 
